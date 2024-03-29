@@ -1,0 +1,85 @@
+locationName,streeeAddress,city,state,postalCode,phoneNumber,storeID,url,averageRating,reviewCount,lowCount
+Millenia Mall,4175 Millenia Boulevard,Orlando,FL,32839.0,321-332-7001,no match,https://lamadeleine.com/locations/orlando-millenia-mall,,,
+West Little Rock,12210 W. Markham Drive,Rock,AR,72211.0,501-221-7777,no match,https://lamadeleine.com/locations/little-rock,,,
+Tysons Corner,7960 Tyson’s Corner Center,McLean,VA,22102.0,703-962-1264,no match,https://lamadeleine.com/locations/mclean-tysons-corner-center,,,
+Connecticut Ave. ,1130 Connecticut Ave. NW ,,DC,,202-780-9988,no match,https://lamadeleine.com/locations/washington-connecticut-ave,,,
+DFW,3200 E. Airfield Drive,Dallas,TX,75261.0,972-426-5210,no match,https://lamadeleine.com/locations/dfw,,,
+Dallas Love Field,8008 Cedar Springs Rd.,Dallas,TX,75235.0,214-358-7614,no match,https://lamadeleine.com/locations/dallas-love-field,,,
+Atlanta Airport Kiosk - Terminal C Gate 7,6000 N. Terminal Parkway,Atlanta,GA,30320.0,404-761-7222,no match,https://lamadeleine.com/locations/atlanta-airport-kiosk-terminal-c-gate-7,,,
+Phoenix Sky Harbor International Airport,3400 E. Sky Harbor Blvd.,Phoenix,AZ,85034.0,602-275-6582,no match,https://lamadeleine.com/locations/phoenix-sky-harbor-international-airport,,,
+Luhrs City Center,45 West Jefferson Street,Phoenix,AZ,85003.0,480-436-8152,no match,https://lamadeleine.com/locations/phoenix-luhrs-city-center,,,
+Alamo Heights,4820 Broadway,,TX,78209.0,210-829-7291,1460,https://lamadeleine.com/locations/san-antonio-alamo-heights,4.389792899408284,1352.0,51.0
+Alexandria,500 King Street,Alexandria,VA,22314.0,703-739-2854,1668,https://lamadeleine.com/locations/alexandria,3.9092495636998255,1146.0,122.0
+Allen,810 W. McDermott Drive,Allen,TX,75013.0,972-338-4927,1669,https://lamadeleine.com/locations/allen,4.060924369747899,952.0,92.0
+Arboretum,9828 Great Hills Trail,Austin,TX,78759.0,512-502-2474,1670,https://lamadeleine.com/locations/austin-arboretum,4.2387543252595155,289.0,20.0
+Berkshire,6109 Berkshire Ln,Dallas,Texas,75225.0,945-279-0912,6206,https://lamadeleine.com/locations/berkshire,3.0833333333333335,12.0,4.0
+Buford,1795 Mall of Georgia Boulevard,Buford,GA,30519.0,470-589-1528,1675,https://lamadeleine.com/locations/buford,4.251621271076524,771.0,47.0
+Camp Bowie,6140 Camp Bowie,Worth,TX,76116.0,817-654-0471,1676,https://lamadeleine.com/locations/fort-worth-camp-bowie,4.305764411027569,798.0,41.0
+Carillon,10001 Westheimer Road,Houston,TX,77042.0,713-266-7686,1677,https://lamadeleine.com/locations/houston-carillon,4.34909377462569,1269.0,76.0
+Carrollton,601 S. Carrollton Avenue,Orleans,LA,70118.0,504-861-8662,1678,https://lamadeleine.com/locations/new-orleans-carrollton,4.11731843575419,716.0,52.0
+Champions,5505-A FM 1960,Houston,TX,77069.0,281-893-0723,1679,https://lamadeleine.com/locations/houston-champions,4.300950369588173,947.0,53.0
+Clearlake,929 West Bay Area Boulevard,Webster,TX,77598.0,281-316-6135,1680,https://lamadeleine.com/locations/webster-clearlake,4.386071670047329,1479.0,66.0
+Coit & Campbell,1320 W. Campbell,Richardson,TX,75080.0,972-671-4887,1681,https://lamadeleine.com/locations/richardson-coit-campbell,4.084835630965006,943.0,81.0
+Collin Creek,520 W. 15th Street,Plano,TX,75075.0,972-398-3003,1682,https://lamadeleine.com/locations/plano-collin-creek,4.255510204081633,1225.0,69.0
+Columbia,6211 Columbia Crossing,Columbia,MD,21045.0,410-872-4900,1683,https://lamadeleine.com/locations/columbia,4.176308539944904,1089.0,69.0
+Conroe,247 S Loop 336 W,Conroe,Texas,77304.0,936-444-4601,no match,https://lamadeleine.com/locations/conroe,,,
+Crossroads,19710 Northwest Freeway (290),Houston,TX,77065.0,281-720-1000,1684,https://lamadeleine.com/locations/houston-crossroads,4.277609682299546,1322.0,75.0
+Downtown Crown,242 Crown Park Avenue,Gaithersburg,MD,20878.0,240-449-4879,1687,https://lamadeleine.com/locations/gaithersburg-downtown-crown,4.075313807531381,478.0,38.0
+East Cobb,4101 Roswell Road,Marietta,GA,30062.0,770-579-3040,1688,https://lamadeleine.com/locations/marietta-east-cobb,3.8669950738916254,812.0,106.0
+Elmwood,1200 S. Clearview Pkwy,Harahan,LA,70123.0,504-818-2450,1690,https://lamadeleine.com/locations/harahan-elmwood,4.120689655172414,580.0,45.0
+First Colony,2675 Town Center Boulevard,Sugarland,TX,77479.0,281-494-4400,1692,https://lamadeleine.com/locations/sugar-land-first-colony,4.284982935153583,1172.0,62.0
+Flower Mound,2500 Cross Timbers Road,Mound,TX,75028.0,469-240-5888,1694,https://lamadeleine.com/locations/flower-mound,4.004716981132075,636.0,71.0
+Fountains at Farrah,8889 Gateway Blvd. West,Paso,TX,79925.0,915-225-3660,1689,https://lamadeleine.com/locations/el-paso-fountains-at-farrah,4.452830188679245,159.0,7.0
+Frisco,8008 State Hwy 121,Frisco,TX,75034.0,972-704-2000,1695,https://lamadeleine.com/locations/frisco,4.045580110497237,1448.0,131.0
+Woodlands,9595 Six Pines Drive,Woodlands,TX,77380.0,281-419-5826,1753,https://lamadeleine.com/locations/woodlands,4.134937238493724,956.0,65.0
+West Grand,23322 Mercantile Parkway,Katy,TX,77449.0,281-395-2888,1752,https://lamadeleine.com/locations/katy-west-grand,4.280101394169836,1578.0,87.0
+Waco,2816 Marketplace Drive,Waco,TX,76711.0,254-262-3171,1950,https://lamadeleine.com/locations/waco,4.336206896551724,696.0,30.0
+Uptown,2110 Louisiana Blvd. NE,Albuquerque,NM,87110.0,505-274-7555,no match,https://lamadeleine.com/locations/albuquerque-uptown,,,
+Gates of Prosper,1140 S Preston Rd,Prosper,Texas,75078.0,945-207-1286,6211,https://lamadeleine.com/locations/gates-of-prosper,3.4594594594594597,37.0,5.0
+Grapevine,900 W. State Highway 114,Grapevine,TX,76051.0,817-251-0255,1696,https://lamadeleine.com/locations/grapevine,3.996818663838812,943.0,91.0
+Gwinnett,2255 Pleasant Hill Road,Duluth,GA,30096.0,770-814-0355,1697,https://lamadeleine.com/locations/duluth-gwinnett,4.0884462151394425,1255.0,115.0
+Houston Galleria,5015 Westheimer Road,Houston,TX,77056.0,713-993-0287,1698,https://lamadeleine.com/locations/houston-galleria,4.041304347826087,460.0,48.0
+Huebner Oaks,11745 Hwy. 10 West,Antonio,TX,78230.0,210-691-1227,1699,https://lamadeleine.com/locations/san-antonio-huebner-oaks,4.1875,208.0,20.0
+Jefferson,7615 Jefferson Highway,Rouge,LA,70809.0,225-927-6072,1700,https://lamadeleine.com/locations/baton-rouge-jefferson,4.048543689320389,515.0,49.0
+Tyler,419 WSW Loop 323,Tyler,TX,75701.0,903-258-9050,1745,https://lamadeleine.com/locations/tyler,4.07563025210084,833.0,75.0
+Kingstowne,5876 Kingstowne Center,Alexandria,VA,22315.0,571-385-2455,1702,https://lamadeleine.com/locations/alexandria-kingstowne,4.006802721088436,735.0,71.0
+Kingwood,4570 Kingwood Drive,Kingwood,TX,77345.0,281-360-1681,1703,https://lamadeleine.com/locations/kingwood,4.210287443267776,661.0,59.0
+Tulsa Hills,8115 S. Olympia Avenue West,Tulsa,OK,74107.0,918-289-0348,1744,https://lamadeleine.com/locations/tulsa-hills,4.349806201550388,1032.0,51.0
+Lake Jackson,401-A This Way,Jackson,TX,77566.0,979-480-1223,5798,https://lamadeleine.com/locations/lake-jackson,4.285714285714286,147.0,15.0
+Lakeline,14028 N. US Hwy 183,Austin,TX,78717.0,512-410-7535,1704,https://lamadeleine.com/locations/austin-lakeline,4.089795918367347,735.0,68.0
+MacArthur,6430 North MacArthur Boulevard,Irving,TX,75039.0,469-385-1700,1708,https://lamadeleine.com/locations/irving-macarthur,4.161197466896949,1737.0,119.0
+Mandeville,3434 Highway 190,Mandeville,LA,70471.0,985-626-7004,1709,https://lamadeleine.com/locations/mandeville,4.110019646365423,509.0,47.0
+McKinney,3625 West University Drive,McKinney,TX,75071.0,469-581-1300,4673,https://lamadeleine.com/locations/mckinney,4.2064516129032254,465.0,44.0
+Meyerland,4700 Beechnut,Houston,TX,77096.0,713-218-8075,1710,https://lamadeleine.com/locations/houston-meyerland,4.271151885830785,981.0,58.0
+Midway,4343 W. Northwest Hwy,Dallas,TX,75220.0,214-357-5621,1711,https://lamadeleine.com/locations/dallas-midway,4.166666666666667,384.0,37.0
+Mockingbird,3072 Mockingbird Lane,Dallas,TX,75205.0,214-696-0800,1713,https://lamadeleine.com/locations/dallas-mockingbird,4.29227761485826,1023.0,59.0
+Montfort ,15125 Montfort Road,Dallas,TX,75254.0,469-885-8080,5176,https://lamadeleine.com/locations/addison-montfort,3.683219178082192,584.0,113.0
+Town & Country,770 W. Sam Houston Parkway N.,Houston,TX,77024.0,713-465-7370,1743,https://lamadeleine.com/locations/houston-town-country,4.213393870601589,881.0,75.0
+Norman,1954 24th Avenue NW,Norman,OK,73069.0,405-416-1942,1748,https://lamadeleine.com/locations/university-town-center-norman,4.270833333333333,624.0,39.0
+Tierra Del Este,3440 Joe Battle Blvd. ,,Texas,79938.0,915-229-2700,2483,https://lamadeleine.com/locations/el-paso-tierra-del-este-center,4.469411764705883,850.0,35.0
+North Arlington,2101 N. Collins,,TX,76011.0,817-461-3634,1715,https://lamadeleine.com/locations/north-arlington,4.333057166528583,1207.0,60.0
+Northpark,8687 N. Central Expressway,Dallas,TX,75225.0,214-696-2398,1716,https://lamadeleine.com/locations/dallas-northpark,4.282222222222222,450.0,22.0
+Northwoods,18030 US Hwy 281 N,Antonio,TX,78232.0,210-499-0208,1717,https://lamadeleine.com/locations/san-antonio-northwoods,4.267538644470868,841.0,50.0
+The Forum,8134 Agora Parkway,Oak,TX,78154.0,210-306-2922,1741,https://lamadeleine.com/locations/live-oak-the-forum,4.28672032193159,994.0,57.0
+Overton Park,4626 SW Loop 820,Worth,TX,76109.0,817-717-5200,no match,https://lamadeleine.com/locations/fort-worth-overton-park,,,
+Park District - Petite Market & Bakery,2100 Olive Street,Dallas,TX,75201.0,972-913-2280,4691,https://lamadeleine.com/locations/dallas-park-district,3.6728971962616823,107.0,24.0
+Park North,722 NW Loop 410,Antonio,TX,78216.0,210-979-9161,1719,https://lamadeleine.com/locations/san-antonio-park-north,4.281159420289855,1035.0,62.0
+The Met,3615 West Chandler Blvd,Chandler,AZ,85226.0,480-999-2095,1742,https://lamadeleine.com/locations/the-met-at-chandler-mall,4.326775021385799,1169.0,51.0
+Parkway Village,1560 Eldridge Parkway,Houston,TX,77077.0,281-940-8516,1720,https://lamadeleine.com/locations/houston-parkway-village,4.3076923076923075,390.0,25.0
+Pearland,11200 Broadway Street,Pearland,TX,77584.0,832-916-3598,1721,https://lamadeleine.com/locations/pearland,4.112244897959184,784.0,62.0
+Tanglewood,5885 San Felipe Street,Houston,TX,77057.0,832-726-1315,1740,https://lamadeleine.com/locations/houston-tanglewood,4.303219106957425,963.0,46.0
+Perimeter,1165 Perimeter Center West,Atlanta,GA,30338.0,770-392-0516,1722,https://lamadeleine.com/locations/atlanta-perimeter,3.573170731707317,574.0,99.0
+Perkins Rowe,7707 Bluebonnet Boulevard,Rouge,LA,70810.0,225-766-1875,1723,https://lamadeleine.com/locations/baton-rouge-perkins-rowe,3.986460348162476,517.0,57.0
+Sunset Valley,5493 Brodie Lane,Austin,TX,78745.0,512-287-4081,1739,https://lamadeleine.com/locations/austin-sunset-valley,4.23396674584323,842.0,37.0
+Spring ,6805 N Grand Parkway,Spring,TX,77389.0,346-298-6390,2687,https://lamadeleine.com/locations/spring,4.20554272517321,433.0,40.0
+Plano,5000 W. Park Boulevard,Plano,TX,75093.0,972-407-1878,1726,https://lamadeleine.com/locations/plano,4.154786150712831,982.0,83.0
+South Arlington,4201 S. Cooper Street,Arlington,TX,76015.0,817-417-5100,1738,https://lamadeleine.com/locations/south-arlington,4.118736383442266,918.0,86.0
+Presidio Junction,8825 N Fwy Service Rd E,Worth,TX,76177.0,682-593-5605,1728,https://lamadeleine.com/locations/fort-worth-presidio-junction,3.8494726749760306,1043.0,135.0
+Shops at Martial,2207-I Kaliste Saloom Road,Lafayette,LA,70508.0,337-504-7369,1737,https://lamadeleine.com/locations/lafayette-shops-at-martial,4.429347826086956,552.0,28.0
+Preston Forest,11930 Preston Road,Dallas,TX,75230.0,972-233-6446,1729,https://lamadeleine.com/locations/dallas-preston-forest,4.080575539568345,695.0,72.0
+Reston,1833 Fountain Drive,Reston,VA,20190.0,703-707-0704,1730,https://lamadeleine.com/locations/reston,4.074501573976915,953.0,77.0
+River Oaks,2047-A West Gray,Houston,TX,77019.0,713-526-9666,1731,https://lamadeleine.com/locations/houston-river-oaks,4.272873194221509,623.0,39.0
+Rockwall,987 East I-30,Rockwall,TX,75087.0,972-722-6650,1732,https://lamadeleine.com/locations/rockwall,4.100478468899522,1045.0,106.0
+San Tan Village,2156 E. Williams Field Rd.,Gilbert,AZ,85296.0,480-485-8490,1707,https://lamadeleine.com/locations/gilbert-san-tan-village,4.348837209302325,688.0,32.0
+San Jacinto,2100 Ross Avenue,Dallas,TX,75201.0,214-220-3911,1733,https://lamadeleine.com/locations/dallas-san-jacinto,4.07258064516129,124.0,10.0
+Severn,3300 Severn,Metairie,LA,70002.0,504-456-1624,1736,https://lamadeleine.com/locations/metairie-severn,4.042553191489362,611.0,62.0

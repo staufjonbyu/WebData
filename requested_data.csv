@@ -1,0 +1,85 @@
+locationName,streeeAddress,city,state,postalCode,phoneNumber,storeID
+Millenia Mall,4175 Millenia Boulevard,Orlando,FL,32839.0,321-332-7001,no match
+West Little Rock,12210 W. Markham Drive,Rock,AR,72211.0,501-221-7777,no match
+Tysons Corner,7960 Tyson’s Corner Center,McLean,VA,22102.0,703-962-1264,no match
+Connecticut Ave. ,1130 Connecticut Ave. NW ,,DC,,202-780-9988,no match
+DFW,3200 E. Airfield Drive,Dallas,TX,75261.0,972-426-5210,no match
+Dallas Love Field,8008 Cedar Springs Rd.,Dallas,TX,75235.0,214-358-7614,no match
+Atlanta Airport Kiosk - Terminal C Gate 7,6000 N. Terminal Parkway,Atlanta,GA,30320.0,404-761-7222,no match
+Phoenix Sky Harbor International Airport,3400 E. Sky Harbor Blvd.,Phoenix,AZ,85034.0,602-275-6582,no match
+Luhrs City Center,45 West Jefferson Street,Phoenix,AZ,85003.0,480-436-8152,no match
+Alamo Heights,4820 Broadway,,TX,78209.0,210-829-7291,1460
+Alexandria,500 King Street,Alexandria,VA,22314.0,703-739-2854,1668
+Allen,810 W. McDermott Drive,Allen,TX,75013.0,972-338-4927,1669
+Arboretum,9828 Great Hills Trail,Austin,TX,78759.0,512-502-2474,1670
+Berkshire,6109 Berkshire Ln,Dallas,Texas,75225.0,945-279-0912,6206
+Buford,1795 Mall of Georgia Boulevard,Buford,GA,30519.0,470-589-1528,1675
+Camp Bowie,6140 Camp Bowie,Worth,TX,76116.0,817-654-0471,1676
+Carillon,10001 Westheimer Road,Houston,TX,77042.0,713-266-7686,1677
+Carrollton,601 S. Carrollton Avenue,Orleans,LA,70118.0,504-861-8662,1678
+Champions,5505-A FM 1960,Houston,TX,77069.0,281-893-0723,1679
+Clearlake,929 West Bay Area Boulevard,Webster,TX,77598.0,281-316-6135,1680
+Coit & Campbell,1320 W. Campbell,Richardson,TX,75080.0,972-671-4887,1681
+Collin Creek,520 W. 15th Street,Plano,TX,75075.0,972-398-3003,1682
+Columbia,6211 Columbia Crossing,Columbia,MD,21045.0,410-872-4900,1683
+Conroe,247 S Loop 336 W,Conroe,Texas,77304.0,936-444-4601,no match
+Crossroads,19710 Northwest Freeway (290),Houston,TX,77065.0,281-720-1000,1684
+Downtown Crown,242 Crown Park Avenue,Gaithersburg,MD,20878.0,240-449-4879,1687
+East Cobb,4101 Roswell Road,Marietta,GA,30062.0,770-579-3040,1688
+Elmwood,1200 S. Clearview Pkwy,Harahan,LA,70123.0,504-818-2450,1690
+First Colony,2675 Town Center Boulevard,Sugarland,TX,77479.0,281-494-4400,1692
+Flower Mound,2500 Cross Timbers Road,Mound,TX,75028.0,469-240-5888,1694
+Fountains at Farrah,8889 Gateway Blvd. West,Paso,TX,79925.0,915-225-3660,1689
+Frisco,8008 State Hwy 121,Frisco,TX,75034.0,972-704-2000,1695
+Woodlands,9595 Six Pines Drive,Woodlands,TX,77380.0,281-419-5826,1753
+West Grand,23322 Mercantile Parkway,Katy,TX,77449.0,281-395-2888,1752
+Waco,2816 Marketplace Drive,Waco,TX,76711.0,254-262-3171,1950
+Uptown,2110 Louisiana Blvd. NE,Albuquerque,NM,87110.0,505-274-7555,no match
+Gates of Prosper,1140 S Preston Rd,Prosper,Texas,75078.0,945-207-1286,6211
+Grapevine,900 W. State Highway 114,Grapevine,TX,76051.0,817-251-0255,1696
+Gwinnett,2255 Pleasant Hill Road,Duluth,GA,30096.0,770-814-0355,1697
+Houston Galleria,5015 Westheimer Road,Houston,TX,77056.0,713-993-0287,1698
+Huebner Oaks,11745 Hwy. 10 West,Antonio,TX,78230.0,210-691-1227,1699
+Jefferson,7615 Jefferson Highway,Rouge,LA,70809.0,225-927-6072,1700
+Tyler,419 WSW Loop 323,Tyler,TX,75701.0,903-258-9050,1745
+Kingstowne,5876 Kingstowne Center,Alexandria,VA,22315.0,571-385-2455,1702
+Kingwood,4570 Kingwood Drive,Kingwood,TX,77345.0,281-360-1681,1703
+Tulsa Hills,8115 S. Olympia Avenue West,Tulsa,OK,74107.0,918-289-0348,1744
+Lake Jackson,401-A This Way,Jackson,TX,77566.0,979-480-1223,5798
+Lakeline,14028 N. US Hwy 183,Austin,TX,78717.0,512-410-7535,1704
+MacArthur,6430 North MacArthur Boulevard,Irving,TX,75039.0,469-385-1700,1708
+Mandeville,3434 Highway 190,Mandeville,LA,70471.0,985-626-7004,1709
+McKinney,3625 West University Drive,McKinney,TX,75071.0,469-581-1300,4673
+Meyerland,4700 Beechnut,Houston,TX,77096.0,713-218-8075,1710
+Midway,4343 W. Northwest Hwy,Dallas,TX,75220.0,214-357-5621,1711
+Mockingbird,3072 Mockingbird Lane,Dallas,TX,75205.0,214-696-0800,1713
+Montfort ,15125 Montfort Road,Dallas,TX,75254.0,469-885-8080,5176
+Town & Country,770 W. Sam Houston Parkway N.,Houston,TX,77024.0,713-465-7370,1743
+Norman,1954 24th Avenue NW,Norman,OK,73069.0,405-416-1942,1748
+Tierra Del Este,3440 Joe Battle Blvd. ,,Texas,79938.0,915-229-2700,2483
+North Arlington,2101 N. Collins,,TX,76011.0,817-461-3634,1715
+Northpark,8687 N. Central Expressway,Dallas,TX,75225.0,214-696-2398,1716
+Northwoods,18030 US Hwy 281 N,Antonio,TX,78232.0,210-499-0208,1717
+The Forum,8134 Agora Parkway,Oak,TX,78154.0,210-306-2922,1741
+Overton Park,4626 SW Loop 820,Worth,TX,76109.0,817-717-5200,no match
+Park District - Petite Market & Bakery,2100 Olive Street,Dallas,TX,75201.0,972-913-2280,4691
+Park North,722 NW Loop 410,Antonio,TX,78216.0,210-979-9161,1719
+The Met,3615 West Chandler Blvd,Chandler,AZ,85226.0,480-999-2095,1742
+Parkway Village,1560 Eldridge Parkway,Houston,TX,77077.0,281-940-8516,1720
+Pearland,11200 Broadway Street,Pearland,TX,77584.0,832-916-3598,1721
+Tanglewood,5885 San Felipe Street,Houston,TX,77057.0,832-726-1315,1740
+Perimeter,1165 Perimeter Center West,Atlanta,GA,30338.0,770-392-0516,1722
+Perkins Rowe,7707 Bluebonnet Boulevard,Rouge,LA,70810.0,225-766-1875,1723
+Sunset Valley,5493 Brodie Lane,Austin,TX,78745.0,512-287-4081,1739
+Spring ,6805 N Grand Parkway,Spring,TX,77389.0,346-298-6390,2687
+Plano,5000 W. Park Boulevard,Plano,TX,75093.0,972-407-1878,1726
+South Arlington,4201 S. Cooper Street,Arlington,TX,76015.0,817-417-5100,1738
+Presidio Junction,8825 N Fwy Service Rd E,Worth,TX,76177.0,682-593-5605,1728
+Shops at Martial,2207-I Kaliste Saloom Road,Lafayette,LA,70508.0,337-504-7369,1737
+Preston Forest,11930 Preston Road,Dallas,TX,75230.0,972-233-6446,1729
+Reston,1833 Fountain Drive,Reston,VA,20190.0,703-707-0704,1730
+River Oaks,2047-A West Gray,Houston,TX,77019.0,713-526-9666,1731
+Rockwall,987 East I-30,Rockwall,TX,75087.0,972-722-6650,1732
+San Tan Village,2156 E. Williams Field Rd.,Gilbert,AZ,85296.0,480-485-8490,1707
+San Jacinto,2100 Ross Avenue,Dallas,TX,75201.0,214-220-3911,1733
+Severn,3300 Severn,Metairie,LA,70002.0,504-456-1624,1736

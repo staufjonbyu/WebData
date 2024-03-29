@@ -81,8 +81,9 @@ const fetchHTML = async (url) => {
             state.push($('div.address__line__3').text().split(', ')[1].split(' ')[0]);
             postalCode.push($('div.address__line__3').text().split(', ')[1].split(' ')[1]);
             phoneNumber.push($('div.telephone').text());
-            storeID.push($('div.address__line__1').text());
-            url1.push(url)
+            storeID.push('');
+            url1.push(url);
+
         
 
  
@@ -103,26 +104,10 @@ const fetchHTML = async (url) => {
 
 
 
-async function fetchLocAndHTML() {
-    try {
-      const locList = await fetchAndParseXml(siteMap);
-      const testList =  [locList[0], locList[1]]; 
-      for (const urlObj of locList) {
-            if (urlObj == locList[7]){
-                console.log(urlObj.loc)
-                break;
-            }
-            robotsTxt1 = fetchHTML(urlObj.loc[0]);
-            } 
-            console.log(phoneNumber)
-    } catch (error) {
-      console.error('Error fetching loc and HTML:', error);
-    }
-}
+
 async function fetchLocAndHTML() {
     try {
         const locList = await fetchAndParseXml(siteMap);
-        const testList = [locList[0], locList[1]]; 
 
         for (const urlObj of locList) {
             await fetchHTML(urlObj.loc[0]); // Wait for each URL to be processed
@@ -140,26 +125,20 @@ async function fetchLocAndHTML() {
             url: url1[index]
         }));
          
-        let csv = 'locationName,streeeAddress,sity,state,postalCode,phoneNumber,storeID,url\n';
+        let csv = 'locationName,streeeAddress,city,state,postalCode,phoneNumber,storeID,url\n';
         data.forEach(item => {
         csv += `${item.locationName},${item.streetAddress},${item.city},${item.state},${item.postalCode},${item.phoneNumber},${item.storeID},${item.url}\n`;
 });
 
 // Write CSV data to a file
-    fs.writeFile('pull_data.csv', csv, err => {
+    fs.writeFile('initial_pulled_data.csv', csv, err => {
             if (err) {
                 console.error(err);
                 return;
             }
             console.log('Data written to store_data.csv');
         });
-        fs.writeFile('pull_data_withUrl.csv', csv, err => {
-            if (err) {
-                console.error(err);
-                return;
-            }
-            console.log('Data written to store_data.csv');
-        });
+        
     } catch (error) {
         console.error('Error fetching loc and HTML:', error);
     }
